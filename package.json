@@ -1,0 +1,26 @@
+{
+  "name": "03-async-and-callbacks",
+  "version": "1.0.0",
+  "description": "![CF](http://i.imgur.com/7v5ASc8.png) 03: Asynchronous Callbacks\r ===",
+  "main": "main.js",
+  "scripts": {
+    "test": "eslint . && jest --coverage",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnorth93/03-async-and-callbacks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnorth93/03-async-and-callbacks/issues"
+  },
+  "homepage": "https://github.com/tnorth93/03-async-and-callbacks#readme",
+  "dependencies": {
+    "eslint": "^5.5.0",
+    "fs": "0.0.1-security",
+    "jest": "^23.6.0"
+  }
+}
